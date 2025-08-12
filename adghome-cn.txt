@@ -1,0 +1,16 @@
+! AdGuard Home 国内优化规则合集 初始版本
+! 来源: AdGuard官方, anti-AD, StevenBlack
+! 更新时间: 2025-08-12
+
+||doubleclick.net^
+||cpro.baidu.com^
+||googlesyndication.com^
+||pos.baidu.com^
+||btrace.qq.com^
+||cupid.iqiyi.com^
+
+@@||alicdn.com^
+@@||taobao.com^
+@@||bilibili.com^
+@@||iqiyi.com^
+@@||tencent-cloud.net^
